@@ -6,7 +6,7 @@ theme: vncnt-hugo
 params:
   author: Jarosław Wencel
   description: Jaroslaw's Wencel home page
-  bio: an IT engineer
+  bio: an IT engineer who speaks humen language
   avatar: profile.jpg
   error404: There is no such page...
 
